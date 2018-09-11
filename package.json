@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-testing",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "a": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AVivero/nodejs-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AVivero/nodejs-testing/issues"
+  },
+  "homepage": "https://github.com/AVivero/nodejs-testing#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "sinon": "^6.2.0"
+  },
+  "dependencies": {
+    "ip": "^1.1.5"
+  }
+}
